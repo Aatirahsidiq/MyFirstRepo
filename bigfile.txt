@@ -1,0 +1,54 @@
+Python is a programming language.
+
+Python can be used on a server to create web applications.
+
+Learning by Examples
+Our "Show Python" tool makes it easy to learn Python, it shows both the code and the result.
+
+Example
+print("Hello, World!")
+Click on the "Run example" button to see how it works.
+
+Python File Handling
+In our File Handling section you will learn how to open, read, write, and delete files.
+
+Python File Handling
+
+Python Database Handling
+In our database section you will learn how to access and work with MySQL and MongoDB databases:
+
+Python MySQL Tutorial
+
+Python MongoDB Tutorial
+
+Python Exercises
+Test Yourself With Exercises
+Exercise:
+Insert the missing part of the code below to output "Hello World".
+
+
+("Hello World")
+
+Start the Exercise
+
+Python Reference
+You will also find complete function and method references:
+
+Reference Overview
+
+Built-in Functions
+
+String Methods
+
+List/Array Methods
+
+Dictionary Methods
+
+Tuple Methods
+
+Set Methods
+
+Python Keywords
+
+Download Python
+Download Python from the official Python web site: https://python.org
